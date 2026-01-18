@@ -1,6 +1,6 @@
 # i-Diário App
 
-Aplicativo para o professor com lançamento de frequência e registro de conteúdos offline, integrado ao [i-Diário](https://github.com/portabilis/i-diario) e [i-Educar](https://github.com/portabilis/i-educar)
+Aplicativo para o professor com lançamento de frequência e registro de conteúdos offline, integrado ao [i-Diário](https://github.com/uaefama/i-diario) e [i-Educar](https://github.com/uaefama/i-educar)
 
 ## Dependências
 
@@ -8,14 +8,14 @@ Para executar o projeto é necessário a utilização de alguns softwares.
 
 - [Node.js](https://nodejs.org/)
 - [NPM](https://www.npmjs.com/)
-- [i-Diário](https://github.com/portabilis/i-diario)
+- [i-Diário](https://github.com/uaefama/i-diario)
 
 ## Instalação
 
 Clone o repositório:
 
 ```bash
-git clone https://github.com/portabilis/i-diario-app.git && cd i-diario-app
+git clone https://github.com/uaefama/i-diario-app.git && cd i-diario-app
 ```
 
 Instale as dependências:
@@ -87,10 +87,5 @@ npx cap open ios
 npx cap open android
 ```
 
-## Perguntas frequentes (FAQ)
-
-Algumas perguntas aparecem recorrentemente. Olhe primeiro por aqui: [FAQ](https://github.com/portabilis/i-educar-website/blob/master/docs/faq.md).
-
 ---
 
-Powered by [Portábilis](https://portabilis.com.br/).
